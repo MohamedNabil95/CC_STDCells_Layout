@@ -9,7 +9,8 @@
 * We used only Inverter and NAND gates in order to do the needed Circuit 
 
 
- ![image](https://github.com/MohamedNabil95/Issues/assets/90795738/7574f9e0-6769-403d-b738-35df5ef4039d)
+ ![Specs](https://github.com/MohamedNabil95/CC_STDCells_Layout/assets/90795738/247aafab-3812-4b25-b1d1-0d55b7786324)
+
 
 * the circuit we are required to design
 
