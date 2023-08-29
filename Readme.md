@@ -1,7 +1,7 @@
 ## Description 
 # Layout of a standard cell design project using Synopsys Deisgn Tool "Custom_Compiler" 
 
-* Technology used : SAED_14nmPDK FinFET
+* Technology used : 14nm PDK FinFET
   
 * Gates done : Inverter , NAND , XOR
   
