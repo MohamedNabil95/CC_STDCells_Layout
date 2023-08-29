@@ -37,7 +37,8 @@
 
 ## Schematic 
 
-![image](https://imgur.com/51QGVt8)
+![image](https://github.com/MohamedNabil95/Issues/assets/90795738/c223c31f-be07-46c2-993a-59217b48bd95)
+
 
 ## Layout
 
@@ -76,7 +77,8 @@
 
 ## M1, M2 , M3 and Vias 
 
-![image](https://github.com/MohamedNabil95/CC_STDCells_Layout/assets/90795738/1f725b84-8ab3-40a1-a9a1-aea7aa4123e1)
+![image](https://github.com/MohamedNabil95/CC_STDCells_Layout/assets/90795738/3a2cf11b-ae12-4d9d-9fa9-6e37796d5b3a)
+
 
 ## DRC Clean XOR 
 
@@ -84,7 +86,8 @@
 
 ## LVS Matched XOR
 
-![image](https://github.com/MohamedNabil95/CC_STDCells_Layout/assets/90795738/f4b9cca0-060e-4e9e-9344-412916a11ec0)
+![image](https://github.com/MohamedNabil95/Issues/assets/90795738/941c7a5b-5087-4ed2-911c-fc208faf0389)
+
 
 ![image](https://github.com/MohamedNabil95/Issues/assets/90795738/21425368-ac58-4aaa-b1ba-78339ef9cf4c)
 
@@ -92,7 +95,8 @@
 
 ## Schematic 
 
-![image](https://github.com/MohamedNabil95/CC_STDCells_Layout/assets/90795738/b8bb87f3-c7c6-418d-b31e-18552c6c5357)
+![image](https://github.com/MohamedNabil95/Issues/assets/90795738/51969f5e-b456-487a-9c27-b10280a6a372)
+
 
 
 ## Layout 
@@ -105,21 +109,25 @@
 
 ## NWELL , Diff , Poly , POCUT and Fin Layers
 
-![image](https://github.com/MohamedNabil95/CC_STDCells_Layout/assets/90795738/261cd0ee-8af6-4fc4-a46f-aae74a2aa032)
+![image](https://github.com/MohamedNabil95/Issues/assets/90795738/23b4c8bc-bbc3-4e09-9657-174585666c17)
+
 
 # M1 M2 M3 , VIAS and labels 
 
-![image](https://github.com/MohamedNabil95/CC_STDCells_Layout/assets/90795738/1c2a90b3-ec77-4117-8bbe-c15b762d2bb8)
+![image](https://github.com/MohamedNabil95/Issues/assets/90795738/a67c7c6c-1c36-4de7-8d3b-82927a9e9f28)
+
 
 - Orientation Would be : M2 For Vertical Moves , M3 For horizontal , M1 is base metal of the transistor Horizontal for most non basic wiring of transistor .
 
   # DRC Clean Circuit 
 
-![image](https://github.com/MohamedNabil95/CC_STDCells_Layout/assets/90795738/252ac8da-b785-42f4-8af9-b825293932bf)
+![image](https://github.com/MohamedNabil95/Issues/assets/90795738/d909f53b-858c-4c79-929b-383c41ebeacf)
+
 
 # Matched LVS Circuit
 
-![image](https://github.com/MohamedNabil95/CC_STDCells_Layout/assets/90795738/63aefff1-4491-4707-a244-d6864d4051b5)
+![image](https://github.com/MohamedNabil95/Issues/assets/90795738/5d3cf94b-2b7d-4d6e-bc5a-ce43d38e6941)
+
 
 ![image](https://github.com/MohamedNabil95/Issues/assets/90795738/cc9ccef1-af1f-4826-a595-817ac0d1730a)
 
