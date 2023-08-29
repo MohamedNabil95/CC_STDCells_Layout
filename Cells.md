@@ -37,7 +37,7 @@
 
 ## Schematic 
 
-![image](https://github.com/MohamedNabil95/CC_STDCells_Layout/assets/90795738/889485e9-84c8-451f-a4c8-fc5b0e061330)
+![image](https://imgur.com/51QGVt8)
 
 ## Layout
 
