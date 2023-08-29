@@ -7,4 +7,5 @@
   
 * Circuits done using those STDCells
   
- ![image](https://github.com/MohamedNabil95/Issues/assets/90795738/17feaf0b-488a-448e-9d21-eeb0e352241e)
+ ![Circuit Diagram](https://github.com/MohamedNabil95/CC_STDCells_Layout/assets/90795738/33e54206-315e-49f7-bc5d-abb77c345bd3)
+
